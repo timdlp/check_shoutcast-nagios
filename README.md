@@ -2,7 +2,8 @@
 ### Simple PHP script to monitor a shoutcast DNAS v1 stream with Nagios Core
 
 ## Introduction
-I needed a way to check some old Shoutcast DNAS v1 streams with Nagios Core and found nothing working so I've searched the internet till I came up with this homemade solution.
+I needed a way to check the status of some old Shoutcast DNAS v1 streams with Nagios Core and found no working solution.
+I've searched the internet for a while and decided to write it myself, I came up with this homemade solution.
 
 It's tested and intended to work with Nagios Core 4.3.4 but as it's PHP, you could run it anywhere.
 
